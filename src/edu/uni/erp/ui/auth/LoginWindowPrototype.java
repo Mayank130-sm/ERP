@@ -1,4 +1,4 @@
-package edu.univ.erp.ui.auth;
+package edu.uni.erp.ui.auth;
 import javax.swing.*;
 import com.formdev.flatlaf.FlatClientProperties;
 import com.formdev.flatlaf.FlatLightLaf;

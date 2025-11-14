@@ -1,0 +1,16 @@
+# Java
+*.class
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+
+# JAR files (optional: include only if repo should be clean)
+lib/*.jar
